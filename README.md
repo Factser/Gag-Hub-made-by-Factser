@@ -1,1 +1,1 @@
-Grow a Garden 2 Script Hub Working script for Solara, Delta, and more !Made by Factser. Features Autofarm AutoPlant Teleport Steal in day NoRagdoll And More!
+How to Us Open your Roblox executor (Solara, Delta, etc.).Copy and paste the script code into the executor. Run the script . Enter the Key when prompted in the GUI. Enjoy the features!
